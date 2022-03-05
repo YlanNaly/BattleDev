@@ -1,2 +1,2 @@
 # BattleDev
-Vous trouverez ici les solutions des battledevs .
+Vous trouverez ici les solutions que je suggère pour les Battledev .
